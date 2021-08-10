@@ -1,0 +1,4 @@
+.metals/
+.vscode/
+data/
+spark-warehouse/
