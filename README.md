@@ -9,7 +9,7 @@
 - Select best features;
 - Result interpretation.
 
-### Краткое описание файлов:
+### Files:
 - `explore.ipynb` - Data analyse and transformations.
 - `models.ipynb` - Models training and interpretations.
 
